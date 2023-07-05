@@ -8,3 +8,5 @@ Added one line
 I am adding one line in the development as well.
 this is new line in only developmet not in local repo
 development
+this file is modified in development .
+I want to commit now in development then i will merge to local repo in master
