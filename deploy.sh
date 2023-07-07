@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+This file is modified
+This contains all deployment file
+>>>>>>> db2f2b0 (updated developmentscript)
 This is a modified file
 All depoly scripts added
 This is for testing to see whether we can get back the files from staging to working area
