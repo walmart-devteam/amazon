@@ -1,3 +1,4 @@
+This is the updated version in Remote repository
 <<<<<<< HEAD
 =======
 This file is modified
